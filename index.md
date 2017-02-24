@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Hi, I am Marcel, post-doc, physicit, working on super-resolved fluorescence microscopy. This is an overview page for my projects, and somewhat of a CV.
 
-You can use the [editor on GitHub](https://github.com/mueller-physics/mueller-physics.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## The fairSIM project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My main project is an open-source reconstruction software for structured illumiation microscopy (SIM), found at
+[fairsim.org](http://www.fairsim.org). All code is hosted [here on github](https://github.com/fairsim), including
+also a manual and tets datasets.
+There is also a publication here in [Nature Communications](http://www.nature.com/ncomms/2016/160321/ncomms10980/abs/ncomms10980.html) (open access).
 
-### Markdown
+## Bielefeld Biophysics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I also maintain the github [project page](https://github.com/biophotonics-bielefeld) of the [Biomolecular Photonics group](http://www.physik.uni-bielefeld.de/biopho) at Bielefeld University.
 
-```markdown
-Syntax highlighted code block
+## Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mueller-physics/mueller-physics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach me via [e-mail](mailto:muellerphysics@gmail.com) or find me on [Twitter](https://twitter.com/mueller_physics).
