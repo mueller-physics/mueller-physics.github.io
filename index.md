@@ -1,3 +1,8 @@
+---
+layout: default
+title: Marcel Müller
+---
+
 Hi, I am Marcel, post-doc, physicist, working on super-resolved fluorescence microscopy. This is an overview page for my projects, and so somewhat of a CV.
 
 ## The fairSIM project
