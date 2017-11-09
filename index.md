@@ -22,10 +22,15 @@ We are currently working on combining fairSIM with a home-built, 2D SIM microsco
 ## Bielefeld Biophysics
 
 I also maintain the github [project page](https://github.com/biophotonics-bielefeld) of the [Biomolecular Photonics group](http://www.physik.uni-bielefeld.de/biopho) at Bielefeld University,
-and implemented the Java / ImageJ-plugins hosted there.
+and implemented the Java / ImageJ-plugins hosted there:
 
-## Some side projects
+* [ESI](https://github.com/biophotonics-bielefeld/ESI): A entropy-based super-resolution approach by Idir Yahiatene
+* [GICA](https://github.com/biophotonics-bielefeld/GICA): A colocalization analysis approach by Fabian Humpert
 
+## Some (hardware-related) side projects
+
+* Improvements to the [IDS device adapter](https://github.com/biophotonics-bielefeld/ids-device-adapter) to run IDS uEye
+caremas at full speed in MicroManager
 * A low-cost, Arduino-based electric [microscope stage heater](https://mueller-physics.github.io/arduino-stage-heater).
 * Code for [remotely displaying images](https://github.com/mueller-physics/raspberry-network-display) on a Raspberry Pi. This is aimed at using it to control an SLM.
 
