@@ -16,7 +16,7 @@ We are currently working on combining fairSIM with a home-built, 2D SIM microsco
 ## SIM resources
 
 * List of (more technical) [publications around SIM](https://mueller-physics.github.io/SIM-Collection/literature.html)
-
+* SIM [illumination scan animation](https://mueller-physics.github.io/SIM-Collection/files/illumination-scan-video.avi) 
 
 
 ## Bielefeld Biophysics
