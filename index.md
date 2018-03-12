@@ -35,6 +35,15 @@ caremas at full speed in MicroManager
 * Code for [remotely displaying images](https://github.com/mueller-physics/raspberry-network-display) on a Raspberry Pi. This is aimed at using it to control an SLM.
 
 
-## Contact
+## Contact & Networks
 
-You can reach me via [e-mail](mailto:muellerphysics@gmail.com) or find me on [Twitter](https://twitter.com/mueller_physics).
+You can reach me:
+
+* via [e-mail](mailto:muellerphysics@gmail.com): muellerphysics@gmail.com
+* on [Twitter](https://twitter.com/mueller_physics): @mueller_physics
+
+Also useful:
+
+* [ORCID](https://orcid.org/0000-0002-2264-3643)
+* [google scholar](https://scholar.google.com/citations?user=N29z1_wAAAAJ)
+
