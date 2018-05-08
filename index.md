@@ -37,13 +37,14 @@ caremas at full speed in MicroManager
 
 ## Contact & Networks
 
-You can reach me:
+You can reach me
 
 * via [e-mail](mailto:muellerphysics@gmail.com): muellerphysics@gmail.com
 * on [Twitter](https://twitter.com/mueller_physics): @mueller_physics
 
-Also useful:
+I try to somewhat maintain profiles on
 
 * [ORCID](https://orcid.org/0000-0002-2264-3643)
 * [google scholar](https://scholar.google.com/citations?user=N29z1_wAAAAJ)
-
+* [LinkedIn](http://www.linkedin.com/in/mueller-physics)
+* [ResearchGate](https://www.researchgate.net/profile/Marcel_Mueller10)
