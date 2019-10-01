@@ -3,7 +3,7 @@ layout: default
 description: super-resolution microscopy
 ---
 
-Hi, I am Marcel Müller, a post-doctoral research working on software & instruments
+Hi, I am Marcel Müller, a post-doctoral researcher working on software & instruments
 for super-resolved fluorescence microscopy.
 
 ## The fairSIM project
